@@ -73,7 +73,7 @@
     },
     {
       "key":"year",
-      "type":"string",
+      "type":"int",
       "filter":true,
       "meta":{
         "name":"Year",
